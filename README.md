@@ -1,6 +1,6 @@
 # Stock market analyst
 
-![stock Market](stockmarket.jpg)
+![stock Market](Images/stockmarket.jpg)
 
 ## Instructions
 
