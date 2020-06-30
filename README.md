@@ -1,4 +1,4 @@
-# Stock market analyst
+# Stock Market Analysis
 
 ![stock Market](Images/stockmarket.jpg)
 
